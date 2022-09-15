@@ -12,5 +12,7 @@ public class Main {
 
         Sesion3 sesion3 = new Sesion3();
         System.out.println(sesion3.sumaFuncionalVariable.apply(5));
+        
+        System.out.println();
     }
 }
